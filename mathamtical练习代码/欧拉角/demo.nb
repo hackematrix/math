@@ -1,0 +1,7 @@
+matA = {{Cos[\[Phi]], -Sin[\[Phi]], 0}, {Sin[\[Phi]], Cos[\[Phi]], 
+   0}, {0, 0, 1}}
+matB = {{1, 0, 0}, {0, Cos[\[Theta]], -Sin[\[Theta]]}, {0, 
+   Sin[\[Theta]], Cos[\[Theta]]}}
+matC = {{Cos[\[Psi]], -Sin[\[Psi]], 0}, {Sin[\[Psi]], Cos[\[Psi]], 
+   0}, {0, 0, 1}}
+matA . matB . matC   
