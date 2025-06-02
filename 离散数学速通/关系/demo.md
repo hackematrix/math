@@ -11,11 +11,11 @@
 * 对称:只要有xRy,就有yRx.关系矩阵是对称矩阵
 
 3.**关系的复合**
-$$
-\text{关系的复合对应关系矩阵的乘法}
-$$  
-$$
-\text{关系}R的逆关系R^{-1}=\lbrace \langle y,x \rangle | \langle x,y \rangle \rbrace \text{对应关系矩阵的转置}
-$$  
-$$
-(R\circ S)^{-1}=S^{-1} \circ R^{-1}
+
+$$\text{关系的复合对应关系矩阵的乘法}$$
+
+
+$$\text{关系}R的逆关系R^{-1}=\lbrace \langle y,x \rangle | \langle x,y \rangle \rbrace \text{对应关系矩阵的转置}$$
+  
+
+$$(R\circ S)^{-1}=S^{-1} \circ R^{-1}$$
